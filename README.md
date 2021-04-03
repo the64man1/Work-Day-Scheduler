@@ -8,7 +8,7 @@ I also added a function that will detect if the contents of local storage were s
 
 I also added a button at the bottom of the page to allow the user to clear local storage.
 
-Link to GitHub page hosting the source files: https://github.com/the64man1/Work-Day-Scheduler/
+Link to GitHub page hosting the source files: https://github.com/the64man1/Work-Day-Scheduler/ <br>
 Link to live website: https://the64man1.github.io/Work-Day-Scheduler/
 
 ![Work-Day-Scheduler pic](https://user-images.githubusercontent.com/74144055/113490601-c36f8800-9490-11eb-9132-87eb1320ddbb.png)
