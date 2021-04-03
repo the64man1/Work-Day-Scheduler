@@ -18,6 +18,7 @@ if (!lastDate) {
 
 if (moment(`${currentDate}`).isAfter(`${lastDate}`)) {
     localStorage.clear();
+    alert("Today is a new day! The contents of your schedule from a previous day were cleared.")
     $("#update").append("Today is a new day! The contents of your schedule from a previous day were cleared.")
     $("#update").addClass("update");
 }
